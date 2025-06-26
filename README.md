@@ -2,25 +2,10 @@
 
 This repository contains my personal notes, solutions, and project files from various DeepLearning.AI courses and specializations on topics including:
 
-- Mathematics for Machine Learning and Data Science  
+- Calculus
+- Linear Algebra
 - Probability & Statistics  
 - Supervised Learning: Regression & Classification  
-- Advanced Learning Algorithms  
+- Advanced Learning Algorithms
+- Unsupervised Learning, Recommenders, Reinforcement Learning
 - And more as I progress...
-
----
-
-## Repository Structure
-
-```bash
-deeplearning.ai/
-│
-├── mathematics-for-machine-learning/
-│   └── ...
-├── probability-and-statistics/
-│   └── ab-testing.ipynb
-├── supervised-learning-regression-and-classification/
-│   └── ...
-├── advanced-learning-algorithms/
-│   └── ...
-└── ...
